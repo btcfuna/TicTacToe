@@ -8,7 +8,6 @@ from Screens.RootScreen.root import RootScreen
 from Screens.SettingsScreen.settings import SettingsScreen
 from Utils.theme_manager import ThemeManager
 
-
 class TicTacToe(MDApp):
     def build(self):
         self.title = "TicTacToe"
